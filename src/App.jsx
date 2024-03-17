@@ -74,7 +74,7 @@ function App() {
                   />
                 </div>
                 <div>
-                  <h3 className="text-[1.5rem] md:text-[34px]">
+                  <h3 className="text-[1.5rem] md:text-[42px]">
                     {single.timeframes[selectedTimeframe].current}hrs
                   </h3>
                   <p className="text-[14px] font-light text-[#aea5ff]">
